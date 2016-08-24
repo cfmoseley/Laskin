@@ -18,6 +18,7 @@
 		499DDEA41D6B6FCA00946B2E /* MooterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDEA31D6B6FCA00946B2E /* MooterCell.swift */; };
 		499DDEA61D6B718A00946B2E /* MooterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDEA51D6B718A00946B2E /* MooterViewController.swift */; };
 		49A361FE1D6C9E860035619B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49A361FD1D6C9E860035619B /* Main.storyboard */; };
+		49CDEBF81D6D21E900BD55AF /* AnalysisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CDEBF71D6D21E900BD55AF /* AnalysisViewController.swift */; };
 		49F37B8D1D69ECDF00B044B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F37B8C1D69ECDF00B044B7 /* AppDelegate.swift */; };
 		49F37B8F1D69ECDF00B044B7 /* MootersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F37B8E1D69ECDF00B044B7 /* MootersViewController.swift */; };
 		49F37B911D69ECDF00B044B7 /* JudgesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F37B901D69ECDF00B044B7 /* JudgesViewController.swift */; };
@@ -42,6 +43,7 @@
 		499DDEA31D6B6FCA00946B2E /* MooterCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MooterCell.swift; sourceTree = "<group>"; };
 		499DDEA51D6B718A00946B2E /* MooterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MooterViewController.swift; sourceTree = "<group>"; };
 		49A361FD1D6C9E860035619B /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../../.Trash/Main.storyboard; sourceTree = "<group>"; };
+		49CDEBF71D6D21E900BD55AF /* AnalysisViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnalysisViewController.swift; sourceTree = "<group>"; };
 		49F37B891D69ECDF00B044B7 /* Moot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49F37B8C1D69ECDF00B044B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49F37B8E1D69ECDF00B044B7 /* MootersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MootersViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				499DDE991D6B322600946B2E /* JudgeViewController.swift */,
 				49F37BA01D6A0AB400B044B7 /* SchoolsViewController.swift */,
 				49F37BB51D6A1E6600B044B7 /* SchoolViewController.swift */,
+				49CDEBF71D6D21E900BD55AF /* AnalysisViewController.swift */,
 				49F37B951D69ECDF00B044B7 /* Assets.xcassets */,
 				49A361FD1D6C9E860035619B /* Main.storyboard */,
 				49F37B971D69ECDF00B044B7 /* LaunchScreen.storyboard */,
@@ -198,6 +201,7 @@
 				499DDE941D6B26FA00946B2E /* JudgeCell.swift in Sources */,
 				499DDEA61D6B718A00946B2E /* MooterViewController.swift in Sources */,
 				49F37B8F1D69ECDF00B044B7 /* MootersViewController.swift in Sources */,
+				49CDEBF81D6D21E900BD55AF /* AnalysisViewController.swift in Sources */,
 				4913BE8A1D6CBEDD003E2E20 /* School+CoreDataProperties.swift in Sources */,
 				49F37BB61D6A1E6600B044B7 /* SchoolViewController.swift in Sources */,
 				499DDE9D1D6B33D000946B2E /* Judge+CoreDataProperties.swift in Sources */,
