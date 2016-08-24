@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4913BE8A1D6CBEDD003E2E20 /* School+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4913BE881D6CBEDD003E2E20 /* School+CoreDataProperties.swift */; };
 		4913BE8B1D6CBEDD003E2E20 /* School.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4913BE891D6CBEDD003E2E20 /* School.swift */; };
+		498EF4F51D6DD7AB008EB314 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498EF4F41D6DD7AB008EB314 /* WelcomeViewController.swift */; };
 		499DDE941D6B26FA00946B2E /* JudgeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDE931D6B26FA00946B2E /* JudgeCell.swift */; };
 		499DDE9A1D6B322600946B2E /* JudgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDE991D6B322600946B2E /* JudgeViewController.swift */; };
 		499DDE9D1D6B33D000946B2E /* Judge+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDE9B1D6B33D000946B2E /* Judge+CoreDataProperties.swift */; };
@@ -34,6 +35,7 @@
 /* Begin PBXFileReference section */
 		4913BE881D6CBEDD003E2E20 /* School+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "School+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		4913BE891D6CBEDD003E2E20 /* School.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = School.swift; sourceTree = "<group>"; };
+		498EF4F41D6DD7AB008EB314 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		499DDE931D6B26FA00946B2E /* JudgeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JudgeCell.swift; sourceTree = "<group>"; };
 		499DDE991D6B322600946B2E /* JudgeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JudgeViewController.swift; sourceTree = "<group>"; };
 		499DDE9B1D6B33D000946B2E /* Judge+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Judge+CoreDataProperties.swift"; sourceTree = "<group>"; };
@@ -101,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				49F37B8C1D69ECDF00B044B7 /* AppDelegate.swift */,
+				498EF4F41D6DD7AB008EB314 /* WelcomeViewController.swift */,
 				49F37B8E1D69ECDF00B044B7 /* MootersViewController.swift */,
 				499DDEA51D6B718A00946B2E /* MooterViewController.swift */,
 				49F37B901D69ECDF00B044B7 /* JudgesViewController.swift */,
@@ -205,6 +208,7 @@
 				4913BE8A1D6CBEDD003E2E20 /* School+CoreDataProperties.swift in Sources */,
 				49F37BB61D6A1E6600B044B7 /* SchoolViewController.swift in Sources */,
 				499DDE9D1D6B33D000946B2E /* Judge+CoreDataProperties.swift in Sources */,
+				498EF4F51D6DD7AB008EB314 /* WelcomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
