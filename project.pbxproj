@@ -9,13 +9,13 @@
 /* Begin PBXBuildFile section */
 		4913BE8A1D6CBEDD003E2E20 /* School+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4913BE881D6CBEDD003E2E20 /* School+CoreDataProperties.swift */; };
 		4913BE8B1D6CBEDD003E2E20 /* School.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4913BE891D6CBEDD003E2E20 /* School.swift */; };
+		493C2D6C1D6FB68000A1AC15 /* Mooter+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493C2D6A1D6FB68000A1AC15 /* Mooter+CoreDataProperties.swift */; };
+		493C2D6D1D6FB68000A1AC15 /* Mooter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 493C2D6B1D6FB68000A1AC15 /* Mooter.swift */; };
 		498EF4F51D6DD7AB008EB314 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 498EF4F41D6DD7AB008EB314 /* WelcomeViewController.swift */; };
 		499DDE941D6B26FA00946B2E /* JudgeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDE931D6B26FA00946B2E /* JudgeCell.swift */; };
 		499DDE9A1D6B322600946B2E /* JudgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDE991D6B322600946B2E /* JudgeViewController.swift */; };
 		499DDE9D1D6B33D000946B2E /* Judge+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDE9B1D6B33D000946B2E /* Judge+CoreDataProperties.swift */; };
 		499DDE9E1D6B33D000946B2E /* Judge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDE9C1D6B33D000946B2E /* Judge.swift */; };
-		499DDEA11D6B6F8200946B2E /* Mooter+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDE9F1D6B6F8200946B2E /* Mooter+CoreDataProperties.swift */; };
-		499DDEA21D6B6F8200946B2E /* Mooter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDEA01D6B6F8200946B2E /* Mooter.swift */; };
 		499DDEA41D6B6FCA00946B2E /* MooterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDEA31D6B6FCA00946B2E /* MooterCell.swift */; };
 		499DDEA61D6B718A00946B2E /* MooterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDEA51D6B718A00946B2E /* MooterViewController.swift */; };
 		49A361FE1D6C9E860035619B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49A361FD1D6C9E860035619B /* Main.storyboard */; };
@@ -35,13 +35,13 @@
 /* Begin PBXFileReference section */
 		4913BE881D6CBEDD003E2E20 /* School+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "School+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		4913BE891D6CBEDD003E2E20 /* School.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = School.swift; sourceTree = "<group>"; };
+		493C2D6A1D6FB68000A1AC15 /* Mooter+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Mooter+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		493C2D6B1D6FB68000A1AC15 /* Mooter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mooter.swift; sourceTree = "<group>"; };
 		498EF4F41D6DD7AB008EB314 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		499DDE931D6B26FA00946B2E /* JudgeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JudgeCell.swift; sourceTree = "<group>"; };
 		499DDE991D6B322600946B2E /* JudgeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JudgeViewController.swift; sourceTree = "<group>"; };
 		499DDE9B1D6B33D000946B2E /* Judge+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Judge+CoreDataProperties.swift"; sourceTree = "<group>"; };
 		499DDE9C1D6B33D000946B2E /* Judge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Judge.swift; sourceTree = "<group>"; };
-		499DDE9F1D6B6F8200946B2E /* Mooter+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Mooter+CoreDataProperties.swift"; sourceTree = "<group>"; };
-		499DDEA01D6B6F8200946B2E /* Mooter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mooter.swift; sourceTree = "<group>"; };
 		499DDEA31D6B6FCA00946B2E /* MooterCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MooterCell.swift; sourceTree = "<group>"; };
 		499DDEA51D6B718A00946B2E /* MooterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MooterViewController.swift; sourceTree = "<group>"; };
 		49A361FD1D6C9E860035619B /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../../.Trash/Main.storyboard; sourceTree = "<group>"; };
@@ -75,10 +75,10 @@
 		49F37B801D69ECDF00B044B7 = {
 			isa = PBXGroup;
 			children = (
+				493C2D6A1D6FB68000A1AC15 /* Mooter+CoreDataProperties.swift */,
+				493C2D6B1D6FB68000A1AC15 /* Mooter.swift */,
 				4913BE881D6CBEDD003E2E20 /* School+CoreDataProperties.swift */,
 				4913BE891D6CBEDD003E2E20 /* School.swift */,
-				499DDE9F1D6B6F8200946B2E /* Mooter+CoreDataProperties.swift */,
-				499DDEA01D6B6F8200946B2E /* Mooter.swift */,
 				499DDEA31D6B6FCA00946B2E /* MooterCell.swift */,
 				499DDE9B1D6B33D000946B2E /* Judge+CoreDataProperties.swift */,
 				499DDE9C1D6B33D000946B2E /* Judge.swift */,
@@ -190,17 +190,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				499DDEA21D6B6F8200946B2E /* Mooter.swift in Sources */,
 				4913BE8B1D6CBEDD003E2E20 /* School.swift in Sources */,
 				499DDEA41D6B6FCA00946B2E /* MooterCell.swift in Sources */,
 				49F37BA11D6A0AB500B044B7 /* SchoolsViewController.swift in Sources */,
+				493C2D6C1D6FB68000A1AC15 /* Mooter+CoreDataProperties.swift in Sources */,
 				49F37BA51D6A111A00B044B7 /* SchoolCell.swift in Sources */,
 				499DDE9E1D6B33D000946B2E /* Judge.swift in Sources */,
+				493C2D6D1D6FB68000A1AC15 /* Mooter.swift in Sources */,
 				499DDE9A1D6B322600946B2E /* JudgeViewController.swift in Sources */,
 				49F37B911D69ECDF00B044B7 /* JudgesViewController.swift in Sources */,
 				49F37B8D1D69ECDF00B044B7 /* AppDelegate.swift in Sources */,
 				49F37BA81D6A12C000B044B7 /* Moot.xcdatamodeld in Sources */,
-				499DDEA11D6B6F8200946B2E /* Mooter+CoreDataProperties.swift in Sources */,
 				499DDE941D6B26FA00946B2E /* JudgeCell.swift in Sources */,
 				499DDEA61D6B718A00946B2E /* MooterViewController.swift in Sources */,
 				49F37B8F1D69ECDF00B044B7 /* MootersViewController.swift in Sources */,
