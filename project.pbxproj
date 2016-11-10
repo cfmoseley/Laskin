@@ -18,8 +18,8 @@
 		499DDE9E1D6B33D000946B2E /* Judge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDE9C1D6B33D000946B2E /* Judge.swift */; };
 		499DDEA41D6B6FCA00946B2E /* MooterCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDEA31D6B6FCA00946B2E /* MooterCell.swift */; };
 		499DDEA61D6B718A00946B2E /* MooterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 499DDEA51D6B718A00946B2E /* MooterViewController.swift */; };
-		49A361FE1D6C9E860035619B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49A361FD1D6C9E860035619B /* Main.storyboard */; };
 		49CDEBF81D6D21E900BD55AF /* AnalysisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49CDEBF71D6D21E900BD55AF /* AnalysisViewController.swift */; };
+		49DA4C201D88E10900BA14C6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49DA4C1F1D88E10900BA14C6 /* Main.storyboard */; };
 		49F37B8D1D69ECDF00B044B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F37B8C1D69ECDF00B044B7 /* AppDelegate.swift */; };
 		49F37B8F1D69ECDF00B044B7 /* MootersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F37B8E1D69ECDF00B044B7 /* MootersViewController.swift */; };
 		49F37B911D69ECDF00B044B7 /* JudgesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F37B901D69ECDF00B044B7 /* JudgesViewController.swift */; };
@@ -44,8 +44,8 @@
 		499DDE9C1D6B33D000946B2E /* Judge.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Judge.swift; sourceTree = "<group>"; };
 		499DDEA31D6B6FCA00946B2E /* MooterCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MooterCell.swift; sourceTree = "<group>"; };
 		499DDEA51D6B718A00946B2E /* MooterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MooterViewController.swift; sourceTree = "<group>"; };
-		49A361FD1D6C9E860035619B /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../../.Trash/Main.storyboard; sourceTree = "<group>"; };
 		49CDEBF71D6D21E900BD55AF /* AnalysisViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnalysisViewController.swift; sourceTree = "<group>"; };
+		49DA4C1F1D88E10900BA14C6 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		49F37B891D69ECDF00B044B7 /* Moot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Moot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49F37B8C1D69ECDF00B044B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49F37B8E1D69ECDF00B044B7 /* MootersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MootersViewController.swift; sourceTree = "<group>"; };
@@ -112,7 +112,7 @@
 				49F37BB51D6A1E6600B044B7 /* SchoolViewController.swift */,
 				49CDEBF71D6D21E900BD55AF /* AnalysisViewController.swift */,
 				49F37B951D69ECDF00B044B7 /* Assets.xcassets */,
-				49A361FD1D6C9E860035619B /* Main.storyboard */,
+				49DA4C1F1D88E10900BA14C6 /* Main.storyboard */,
 				49F37B971D69ECDF00B044B7 /* LaunchScreen.storyboard */,
 				49F37BA61D6A12C000B044B7 /* Moot.xcdatamodeld */,
 			);
@@ -151,6 +151,7 @@
 				TargetAttributes = {
 					49F37B881D69ECDF00B044B7 = {
 						CreatedOnToolsVersion = 7.3.1;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -177,7 +178,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				49A361FE1D6C9E860035619B /* Main.storyboard in Resources */,
+				49DA4C201D88E10900BA14C6 /* Main.storyboard in Resources */,
 				49F37B991D69ECDF00B044B7 /* LaunchScreen.storyboard in Resources */,
 				49F37B961D69ECDF00B044B7 /* Assets.xcassets in Resources */,
 			);
@@ -317,6 +318,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Pedipod.Moot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -328,6 +330,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Pedipod.Moot;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
